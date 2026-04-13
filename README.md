@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .jetzt one-word domains from Uniqu
 
 **Public extract:** 9,440 rows · **Live catalog:** 9,440 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/jetzt`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
 | container.jetzt | available | $9.99     | —             | 74             | 65     | 9      | name.com            |
-| better.jetzt    | resell    | —         | —             | 110            | 56     | 6      | GoDaddy.com, LLC    |
+| better.jetzt    | resell    | —         | —             | 110            | 54     | 6      | GoDaddy.com, LLC    |
 | travel.jetzt    | premium   | $128.70   | $128.70       | 115            | 48     | 6      | namecheap           |
 | good.jetzt      | available | $9.99     | $29.99        | 82             | 55     | 4      | name.com            |
 | tech.jetzt      | resell    | —         | —             | 104            | 50     | 4      | united-domains GmbH |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
