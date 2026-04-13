@@ -79,7 +79,7 @@ print(df.head())
 | real.jetzt      | available | $30.48    | —             | 78             | 51     | 4      | namecheap           |
 | car.jetzt       | resell    | —         | —             | 94             | 46     | 3      | united-domains GmbH |
 | stock.jetzt     | premium   | $128.70   | $128.70       | 68             | 40     | 5      | namecheap           |
-| simple.jetzt    | available | $9.99     | $29.99        | 128            | 48     | 6      | name.com            |
+| simple.jetzt    | available | $9.99     | $29.99        | 128            | 49     | 6      | name.com            |
 | time.jetzt      | resell    | —         | —             | 128            | 45     | 4      | IONOS SE            |
 | fitness.jetzt   | premium   | $128.70   | $128.70       | 78             | 36     | 7      | namecheap           |
 | only.jetzt      | available | $9.99     | $29.99        | 110            | 46     | 4      | name.com            |
