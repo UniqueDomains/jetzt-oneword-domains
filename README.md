@@ -1,10 +1,10 @@
-# Available .JETZT One-Word Domains (11,846)
+# Available .JETZT One-Word Domains (12,371)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C846%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C371%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .jetzt one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,846 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,371 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,846 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,371 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/jetzt`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain            | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                |
 | ----------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------ |
 | Books.jetzt       | available | $30.48      | —             | 52             | 49     | 5      | namecheap                |
-| Tools.jetzt       | resell    | —           | —             | 56             | 40     | 5      | IONOS SE                 |
+| forum.jetzt       | resell    | —           | —             | 72             | 36     | 5      | Vautron Rechenzentrum AG |
 | cars.jetzt        | premium   | $447,608.34 | —             | 66             | 47     | 4      | Porkbun LLC              |
 | robots.jetzt      | available | $9.99       | —             | 62             | 47     | 6      | name.com                 |
-| forum.jetzt       | resell    | —           | —             | 72             | 36     | 5      | Vautron Rechenzentrum AG |
+| camping.jetzt     | resell    | —           | —             | 80             | 31     | 7      | Vautron Rechenzentrum AG |
 | tickets.jetzt     | premium   | $118.80     | $118.80       | 64             | 34     | 7      | namesilo                 |
 | Ryan.jetzt        | available | $30.48      | —             | 60             | 44     | 4      | namecheap                |
-| camping.jetzt     | resell    | —           | —             | 80             | 31     | 7      | Vautron Rechenzentrum AG |
+| led.jetzt         | resell    | —           | —             | 78             | 30     | 3      | Vautron Rechenzentrum AG |
 | etc.jetzt         | premium   | $41.25      | —             | 58             | 34     | 3      | name.com                 |
 | justin.jetzt      | available | $9.99       | —             | 58             | 38     | 7      | name.com                 |
-| led.jetzt         | resell    | —           | —             | 78             | 30     | 3      | Vautron Rechenzentrum AG |
 | stories.jetzt     | available | $9.99       | —             | 58             | 36     | 7      | name.com                 |
 | homes.jetzt       | available | $9.99       | —             | 86             | 34     | 5      | name.com                 |
 | inspiration.jetzt | available | $9.99       | —             | 88             | 30     | 11     | name.com                 |
 | spaces.jetzt      | available | $9.99       | —             | 54             | 30     | 6      | name.com                 |
-| SanDiego.jetzt    | available | $9.99       | —             | 74             | 29     | 9      | name.com                 |
 | gems.jetzt        | available | $9.99       | —             | 70             | 28     | 4      | name.com                 |
 | photos.jetzt      | available | $9.99       | —             | 54             | 28     | 6      | name.com                 |
 | pages.jetzt       | available | $9.99       | —             | 52             | 28     | 5      | name.com                 |
-| systems.jetzt     | available | $9.99       | —             | 46             | 27     | 7      | name.com                 |
+| traders.jetzt     | available | $9.99       | —             | 60             | 26     | 7      | name.com                 |
+| Keith.jetzt       | available | $30.48      | —             | 66             | 25     | 5      | namecheap                |
+| comics.jetzt      | available | $9.99       | —             | 68             | 24     | 6      | name.com                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,846 live domains                              |
+| 1,000-row public sample | 12,371 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
