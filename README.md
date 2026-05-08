@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .jetzt one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,372 domains · **Median ask:** $136.56 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/jetzt`  
 **Best for:** founders, investors, studios
 
@@ -83,7 +83,7 @@ print(df.head())
 | camping.jetzt | resell    | —           | —             | 80             | 31     | 7      | Vautron Rechenzentrum AG |
 | tickets.jetzt | premium   | $118.80     | $118.80       | 64             | 34     | 7      | namesilo                 |
 | Ryan.jetzt    | available | $30.48      | —             | 60             | 44     | 4      | namecheap                |
-| led.jetzt     | resell    | —           | —             | 78             | 30     | 3      | Vautron Rechenzentrum AG |
+| led.jetzt     | resell    | —           | —             | 78             | 31     | 3      | Vautron Rechenzentrum AG |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
