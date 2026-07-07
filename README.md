@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .jetzt one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,403 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,403 domains · **Median ask:** $135.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,403 domains · **Median ask:** $56.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/jetzt`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/jetzt`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .JETZT one-word domain
 
 ### Files
 
-- `jetzt.csv` — public CSV extract (1,000 rows)
-- `jetzt.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `jetzt.csv`, public CSV extract (1,000 rows)
+- `jetzt.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                |
-| ------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------ |
-| Acup.jetzt    | available | $30.48      | —             | 80             | 5      | 5      | namecheap                |
-| homes.jetzt   | available | $9.99       | —             | 86             | 34     | 5      | name.com                 |
-| finals.jetzt  | available | $9.99       | —             | 80             | 7      | 6      | name.com                 |
-| jewels.jetzt  | available | $9.99       | —             | 80             | 15     | 6      | name.com                 |
-| forces.jetzt  | available | $9.99       | —             | 82             | 12     | 6      | name.com                 |
-| geton.jetzt   | available | $9.99       | —             | 82             | 10     | 6      | name.com                 |
-| Apples.jetzt  | available | $30.48      | —             | 90             | 16     | 6      | namecheap                |
-| toneup.jetzt  | available | $9.99       | —             | 80             | 5      | 7      | name.com                 |
-| hangon.jetzt  | available | $9.99       | —             | 82             | 6      | 7      | name.com                 |
-| makeit.jetzt  | available | $9.99       | —             | 82             | 21     | 7      | name.com                 |
-| stirup.jetzt  | available | $9.99       | —             | 82             | 3      | 7      | name.com                 |
-| dogsick.jetzt | available | $9.99       | —             | 90             | 1      | 7      | name.com                 |
-| leaveon.jetzt | available | $9.99       | —             | 80             | 1      | 8      | name.com                 |
-| Books.jetzt   | available | $30.48      | —             | 52             | 49     | 5      | namecheap                |
-| forum.jetzt   | resell    | —           | —             | 72             | 36     | 5      | Vautron Rechenzentrum AG |
-| cars.jetzt    | premium   | $447,608.34 | —             | 66             | 47     | 4      | Porkbun LLC              |
-| robots.jetzt  | available | $9.99       | —             | 62             | 47     | 6      | name.com                 |
-| camping.jetzt | resell    | —           | —             | 80             | 31     | 7      | Vautron Rechenzentrum AG |
-| tickets.jetzt | premium   | $118.80     | $118.80       | 64             | 34     | 7      | namesilo                 |
-| Ryan.jetzt    | available | $30.48      | —             | 60             | 44     | 4      | namecheap                |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| how.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| bio.jetzt    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                                       |
+| Ann.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
+| jot.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| baltic.jetzt | resell    | —         | —             | medium         | low    | 6      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
+| ash.jetzt    | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                                           |
+| toy.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com                                                           |
+| bid.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
+| babe.jetzt   | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
+| bug.jetzt    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo                                                           |
+| bake.jetzt   | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
+| CNN.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
+| beat.jetzt   | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
+| don.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                                                           |
+| bite.jetzt   | available | $9.99     | —             | high           | low    | 4      | name.com                                                           |
+| era.jetzt    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                           |
+| bits.jetzt   | available | $9.99     | —             | medium         | low    | 4      | name.com                                                           |
+| lay.jetzt    | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                                           |
+| bolt.jetzt   | available | $9.99     | —             | medium         | medium | 4      | name.com                                                           |
+| mad.jetzt    | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo                                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: every domain uses the .jetzt extension and consists of a single word. That creates a broad mix, from plain dictionary terms such as tips.jetzt and movies.jetzt to shorter invented or ambiguous names such as Acup.jetzt and barup.jetzt. For founders, the main question is whether the word is memorable, easy to explain, and strong enough to carry a less common extension. For investors, the key is entry price discipline around the 136.56 median ask, plus whether the keyword has enough commercial clarity to support resale interest. In both cases, the best choices are simple, readable, and specific without creating obvious trademark friction.
+This list gathers one-word domain names under the .jetzt extension, including names like getlucky.jetzt, backyard.jetzt, and hightech.jetzt. Across this set, the median ask sits near $57, making single-word .jetzt names an accessible entry point compared with legacy extensions. Names range from everyday nouns and phrases to short, punchy verbs, giving both quick-turn buyers and long-term builders a broad pool to compare on price, length, and clarity before choosing.
 
-- All names in this selection use the .jetzt extension
-- Median ask is 136.56 across 12,372 listed domains
-- Prioritize clear words over obscure or awkward terms
-- Check trademark overlap before valuing brandability
+- 12,403 one-word .jetzt domain names in this selection
+- Median ask near $57 across this .jetzt list
+- Brandable names like backyard.jetzt and hightech.jetzt
+- Everyday-word .jetzt names fit quick launches or resale
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
