@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .jetzt one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,486 domains · **Median ask:** $35.75 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/jetzt`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
-| how.jetzt  | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| bio.jetzt  | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
-| Ann.jetzt  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
-| jot.jetzt  | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| ash.jetzt  | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo     |
-| toy.jetzt  | available | $9.99     | —             | high           | low    | 3      | name.com     |
-| bid.jetzt  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
-| alto.jetzt | available | $13.99    | $29.99        | low            | low    | 4      | name.com     |
-| bug.jetzt  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
-| arco.jetzt | available | $13.99    | $29.99        | low            | low    | 4      | name.com     |
-| CNN.jetzt  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
-| babe.jetzt | available | $9.99     | —             | high           | low    | 4      | name.com     |
-| cxx.jetzt  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo     |
-| bake.jetzt | available | $9.99     | —             | high           | low    | 4      | name.com     |
-| don.jetzt  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
-| beat.jetzt | available | $9.99     | —             | high           | low    | 4      | name.com     |
-| era.jetzt  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo     |
-| bite.jetzt | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo     |
-| ixl.jetzt  | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo     |
-| bits.jetzt | available | $9.99     | —             | medium         | low    | 4      | name.com     |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar    |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------ |
+| quiet.jetzt | available | $9.99     | —             | high           | low    | 5      | name.com     |
+| how.jetzt   | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| bio.jetzt   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC |
+| Ann.jetzt   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| jot.jetzt   | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| ash.jetzt   | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo     |
+| toy.jetzt   | available | $9.99     | —             | high           | low    | 3      | name.com     |
+| bid.jetzt   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| alto.jetzt  | available | $13.99    | $29.99        | low            | low    | 4      | name.com     |
+| bug.jetzt   | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo     |
+| arco.jetzt  | available | $13.99    | $29.99        | low            | low    | 4      | name.com     |
+| CNN.jetzt   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| babe.jetzt  | available | $9.99     | —             | high           | low    | 4      | name.com     |
+| cxx.jetzt   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo     |
+| bake.jetzt  | available | $9.99     | —             | high           | low    | 4      | name.com     |
+| don.jetzt   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo     |
+| beat.jetzt  | available | $9.99     | —             | high           | low    | 4      | name.com     |
+| era.jetzt   | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo     |
+| bite.jetzt  | available | $23.99    | $23.99        | medium         | low    | 4      | namesilo     |
+| ixl.jetzt   | premium   | $78.54    | $78.54        | low            | low    | 3      | namesilo     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
