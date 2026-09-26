@@ -1,10 +1,10 @@
-# Available .JETZT One-Word Domains (32,532)
+# Available .JETZT One-Word Domains (22,816)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C532%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C816%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .jetzt one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,532 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,532 domains · **Median ask:** $32.33 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,816 domains · **Median ask:** $39.94 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/jetzt`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| and.jetzt    | available | $9.99     | —             | high           | medium | 3      | name.com            |
-| bio.jetzt    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC        |
-| aid.jetzt    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo            |
-| how.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| burger.jetzt | resell    | —         | —             | high           | low    | 6      | Tucows Domains Inc. |
-| ann.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| jot.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| ash.jetzt    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo            |
-| les.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| bce.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| lol.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| bid.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| toy.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| bug.jetzt    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo            |
-| way.jetzt    | available | $9.99     | —             | high           | low    | 3      | name.com            |
-| cnn.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| alto.jetzt   | available | $13.99    | $29.99        | high           | low    | 4      | name.com            |
-| cry.jetzt    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo            |
-| anal.jetzt   | available | $13.99    | $29.99        | high           | low    | 4      | name.com            |
-| cxx.jetzt    | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| domain         | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                |
+| -------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------ |
+| for.jetzt      | available | $9.99       | —             | high           | medium | 3      | name.com                 |
+| cars.jetzt     | resell    | $447,608.34 | —             | high           | medium | 4      | Porkbun LLC              |
+| alp.jetzt      | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                 |
+| lol.jetzt      | available | $9.99       | —             | high           | low    | 3      | name.com                 |
+| aquarium.jetzt | resell    | —           | —             | high           | low    | 8      | Vautron Rechenzentrum AG |
+| auc.jetzt      | premium   | $38.94      | $38.94        | high           | low    | 3      | namesilo                 |
+| not.jetzt      | available | $9.99       | —             | high           | medium | 3      | name.com                 |
+| beg.jetzt      | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                 |
+| van.jetzt      | available | $24.48      | $30.48        | high           | low    | 3      | namecheap                |
+| bid.jetzt      | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                 |
+| abcs.jetzt     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                 |
+| cop.jetzt      | premium   | $78.54      | $78.54        | high           | low    | 3      | namesilo                 |
+| adar.jetzt     | available | $23.99      | $23.99        | medium         | low    | 4      | namesilo                 |
+| hon.jetzt      | premium   | $38.94      | $38.94        | high           | low    | 3      | namesilo                 |
+| adhd.jetzt     | available | $23.99      | $23.99        | high           | medium | 4      | namesilo                 |
+| mao.jetzt      | premium   | $82.50      | —             | high           | low    | 3      | name.com                 |
+| aqua.jetzt     | available | $23.99      | $23.99        | high           | medium | 4      | namesilo                 |
+| may.jetzt      | premium   | $41.25      | —             | high           | low    | 3      | name.com                 |
+| arms.jetzt     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                 |
+| mum.jetzt      | premium   | $38.94      | $38.94        | high           | low    | 3      | namesilo                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,532 live domains                        |
+| 1,000-row public sample | 22,816 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .JETZT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
